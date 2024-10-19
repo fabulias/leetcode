@@ -1,2 +1,4 @@
 *.go linguist-language=Go
 *.py linguist-language=Python
+
+cpp/* linguist-detectable=false
