@@ -1,4 +1,6 @@
 *.go linguist-language=Go
 *.py linguist-language=Python
 
-cpp/* linguist-detectable=false
+*.cpp linguist-vendored
+*.h linguist-vendored
+
